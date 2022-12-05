@@ -6,13 +6,13 @@ The purpose of this project was to gather weather data in Hawaii to see if a sur
 ##  Results
 .describe() was used to display the max, min, mean, and standard deviation for June and December.
 
---	June has a mean of 74.94 a max of 85.00 and a min of 64.00
+- June has a mean of 74.94 a max of 85.00 and a min of 64.00
 
 
 ![jun_temps](https://user-images.githubusercontent.com/112728628/205716640-63f0b4f6-49f4-478d-90d9-684694831b59.PNG)
 
 
---	December has a mean of 71.04 a max of 83.00 and a min of 56.00
+- December has a mean of 71.04 a max of 83.00 and a min of 56.00
 
 
 ![dec_temps](https://user-images.githubusercontent.com/112728628/205716662-411158fb-2cfd-4759-a599-f91c94c27986.PNG)
